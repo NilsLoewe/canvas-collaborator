@@ -10,7 +10,7 @@
 #
 
 class CanvasField < ActiveRecord::Base
-  attr_accessible :businessmodel_id
+  attr_accessible :businessmodel_id, :title
 
   belongs_to :businessmodel
 end
