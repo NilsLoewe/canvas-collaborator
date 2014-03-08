@@ -11,12 +11,19 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20140308134905) do
+ActiveRecord::Schema.define(:version => 20140308161343) do
 
   create_table "businessmodels", :force => true do |t|
-    t.string   "hash"
+    t.string   "hashtag"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
+  end
+
+  create_table "canvas_fields", :force => true do |t|
+    t.integer  "businessmodel_id"
+    t.datetime "created_at",       :null => false
+    t.datetime "updated_at",       :null => false
+    t.string   "title"
   end
 
 end

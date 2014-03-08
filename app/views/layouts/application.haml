@@ -1,0 +1,26 @@
+!!!
+%html
+
+  %head
+    %meta{:charset => "utf-8"}/
+    %title= full_title(yield(:title))
+    = stylesheet_link_tag "application"
+    = javascript_include_tag "application"
+    - if debug_enabled?
+      = stylesheet_link_tag("debug")
+    = csrf_meta_tags
+    /[if lt IE 9]
+      %script{ src: "http://html5shim.googlecode.com/svn/trunk/html5.js"}
+    %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}/
+
+  %body
+    = render 'layouts/header'
+
+    .container
+      = yield :sub_navigation
+      %section#content
+        - flash.each do |key, value|
+          = content_tag(:div, value, class: "alert alert-#{key}")
+        = yield
+
+    = render 'layouts/footer'
