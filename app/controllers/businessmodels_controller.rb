@@ -12,6 +12,7 @@ class BusinessmodelsController < ApplicationController
     @businessmodel.canvas_fields.create(:title => "Customer Segments")
     @businessmodel.canvas_fields.create(:title => "Cost Structure")
     @businessmodel.canvas_fields.create(:title => "Revenue Streams")
+    session[:model_id] = @businessmodel.id
     redirect_to @businessmodel
   end
 
@@ -26,6 +27,7 @@ class BusinessmodelsController < ApplicationController
     @customersegments  = @businessmodel.canvas_fields.find_by_title("Customer Segments")
     @coststructure     = @businessmodel.canvas_fields.find_by_title("Cost Structure")
     @revenuestreams    = @businessmodel.canvas_fields.find_by_title("Revenue Streams")
+    session[:model_id] = @businessmodel.id
   end
 
 end

@@ -1,0 +1,27 @@
+.row.top
+  .pull-right
+    = link_to 'Businessmodel', @canvasfield.businessmodel
+.row.bottom
+  .col-md-10.nopadding
+    .panel.panel-default
+      .panel-heading
+        = @canvasfield.title
+        .pull-right
+          = link_to_modal '+', new_postit_path(@new_postit, :field => @canvasfield.id), :title => "New", :class => "badge"
+      .panel-body
+        .row
+          - @canvasfield.postits.each do |p|
+            .col-md-4
+              .panel.panel-warning
+                .panel-heading
+                  = link_to_modal p.title, edit_postit_path(p), :title => "Edit"
+                .panel-body
+                  = p.content
+  .col-md-2
+    .panel.panel-default
+      .panel-heading
+        Kommentare
+        .pull-right
+          = link_to_modal '+', new_comment_path(@new_comment, :commentable_id => @canvasfield.id, :commentable_type => @canvasfield.class), :title => "New", :class => "badge"
+      .panel-body
+        = render @canvasfield.comments

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20140308161343) do
+ActiveRecord::Schema.define(:version => 20140309101752) do
 
   create_table "businessmodels", :force => true do |t|
     t.string   "hashtag"
@@ -24,6 +24,22 @@ ActiveRecord::Schema.define(:version => 20140308161343) do
     t.datetime "created_at",       :null => false
     t.datetime "updated_at",       :null => false
     t.string   "title"
+  end
+
+  create_table "comments", :force => true do |t|
+    t.string   "comment"
+    t.integer  "commentable_id"
+    t.datetime "created_at",       :null => false
+    t.datetime "updated_at",       :null => false
+    t.string   "commentable_type"
+  end
+
+  create_table "postits", :force => true do |t|
+    t.string   "title"
+    t.text     "content"
+    t.integer  "canvas_field_id"
+    t.datetime "created_at",      :null => false
+    t.datetime "updated_at",      :null => false
   end
 
 end

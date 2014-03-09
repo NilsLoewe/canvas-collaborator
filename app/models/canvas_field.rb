@@ -13,4 +13,6 @@ class CanvasField < ActiveRecord::Base
   attr_accessible :businessmodel_id, :title
 
   belongs_to :businessmodel
+  has_many :postits
+  has_many :comments, as: :commentable
 end

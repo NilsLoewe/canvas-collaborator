@@ -12,4 +12,5 @@ class Businessmodel < ActiveRecord::Base
   attr_accessible :hash
 
   has_many :canvas_fields
+  has_many :comments, as: :commentable
 end

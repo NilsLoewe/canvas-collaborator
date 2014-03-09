@@ -1,3 +1,9 @@
 .panel.panel-default
   .panel-heading
-    = field.title
+    %b= link_to field.title, field
+    %br
+    = link_to_modal '+', new_postit_path(@new_postit, :field => field.id), :title => "New", :class => "badge"
+    .badge
+      Comments:
+      = field.comments.count
+= render field.postits

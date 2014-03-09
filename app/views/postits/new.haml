@@ -1,0 +1,11 @@
+%h4 Neuer Eintrag
+= form_for(@postit) do |f|
+  .field
+    = f.label :title
+    = f.text_field(:title, :size => 40)
+  .field
+    = f.label :content
+    = f.text_area(:content, :size => '30x10')
+  .field
+    = f.hidden_field :canvas_field_id, :value =>  @canvasfield.id
+    = f.submit "Save changes", class: "btn btn-large btn-primary"

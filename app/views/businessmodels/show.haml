@@ -1,28 +1,44 @@
-.row
-  .col-md-2
-    = render :partial => 'canvasfield', :locals => { :field => @keypartners }
-  .col-md-2
+.row.top
+  .col-md-2.nopadding
+    .f2
+      = render :partial => 'canvasfield', :locals => { :field => @keypartners }
+  .col-md-2.nopadding
     .row
       .col-xs-12
-        = render :partial => 'canvasfield', :locals => { :field => @keyactivities }
+        .f
+          = render :partial => 'canvasfield', :locals => { :field => @keyactivities }
     .row
       .col-xs-12
-        = render :partial => 'canvasfield', :locals => { :field => @keyresources }
-  .col-md-2
-    = render :partial => 'canvasfield', :locals => { :field => @valuepropositions }
-  .col-md-2
+        .f
+          = render :partial => 'canvasfield', :locals => { :field => @keyresources }
+  .col-md-2.nopadding
+    .f2
+      = render :partial => 'canvasfield', :locals => { :field => @valuepropositions }
+  .col-md-2.nopadding
     .row
       .col-xs-12
-        = render :partial => 'canvasfield', :locals => { :field => @customerrelations }
+        .f
+          = render :partial => 'canvasfield', :locals => { :field => @customerrelations }
     .row
       .col-xs-12
-        = render :partial => 'canvasfield', :locals => { :field => @channels }
+        .f
+          = render :partial => 'canvasfield', :locals => { :field => @channels }
+  .col-md-2.nopadding
+    .f2
+      = render :partial => 'canvasfield', :locals => { :field => @customersegments }
   .col-md-2
-    = render :partial => 'canvasfield', :locals => { :field => @customersegments }
-  .col-md-2
-    Kommentare
-.row
-  .col-md-5
-    = render :partial => 'canvasfield', :locals => { :field => @coststructure }
-  .col-md-5
-    = render :partial => 'canvasfield', :locals => { :field => @revenuestreams }
+    .panel.panel-default
+      .panel-heading
+        Kommentare
+        .pull-right
+          = link_to_modal '+', new_comment_path(@new_comment, :commentable_id => @businessmodel.id, :commentable_type => @businessmodel.class), :title => "New", :class => "badge"
+      .panel-body
+        = render @businessmodel.comments
+
+.row.bottom
+  .col-md-5.nopadding
+    .f
+      = render :partial => 'canvasfield', :locals => { :field => @coststructure }
+  .col-md-5.nopadding
+    .f
+      = render :partial => 'canvasfield', :locals => { :field => @revenuestreams }

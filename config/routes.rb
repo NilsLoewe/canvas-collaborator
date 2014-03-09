@@ -1,8 +1,9 @@
 Canvas::Application.routes.draw do
 
-  resources :businessmodels do
-    resources :valueproposition
-  end
+  resources :businessmodels
+  resources :canvas_fields
+  resources :postits
+  resources :comments
 
   root :to => 'static_pages#home'
 
