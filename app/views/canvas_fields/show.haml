@@ -20,7 +20,7 @@
   .col-md-2
     .panel.panel-default
       .panel-heading
-        Kommentare
+        = link_to_modal 'Kommentare', comments_path(:fieldid => @canvasfield.id)
         .pull-right
           = link_to_modal '+', new_comment_path(@new_comment, :commentable_id => @canvasfield.id, :commentable_type => @canvasfield.class), :title => "New", :class => "badge"
       .panel-body

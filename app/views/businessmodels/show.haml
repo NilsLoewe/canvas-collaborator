@@ -29,11 +29,13 @@
   .col-md-2
     .panel.panel-default
       .panel-heading
-        Kommentare
+        = link_to_modal 'Kommentare', comments_path
         .pull-right
           = link_to_modal '+', new_comment_path(@new_comment, :commentable_id => @businessmodel.id, :commentable_type => @businessmodel.class), :title => "New", :class => "badge"
       .panel-body
-        = render @businessmodel.comments
+        = render @businessmodel.comments.limit(3)
+        - if @businessmodel.comments.count > 3
+          = link_to_modal '(more...)', comments_path
 
 .row.bottom
   .col-md-5.nopadding

@@ -4,6 +4,8 @@
     %br
     = link_to_modal '+', new_postit_path(@new_postit, :field => field.id), :title => "New", :class => "badge"
     .badge
-      Comments:
-      = field.comments.count
+      - if field.comments.count > 0
+        = link_to_modal field.comments.count, comments_path(:fieldid => field.id)
+      - else
+        no comments
 = render field.postits
