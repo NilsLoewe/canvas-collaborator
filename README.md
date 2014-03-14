@@ -14,3 +14,15 @@ This shall become a simple tool to create and discuss business models, using the
 - A user is recongnized by a cookie. A user can store his name and his email to show his identity to his collaborateurs
 
 That's it for now ;)
+
+##Database setup
+
+The canvas collaborator is configured to use postgresql as databsee as default. In that way, you can directly deploy to heroku for a test installation. Of course, any other database can be used.
+
+    sudo -u postgres createdb canvas_development
+    sudo -u postgres createdb canvas_test
+    sudo -u postgres createdb canvas_production
+    sudo -u postgres createuser canvas -P
+
+    rake db:create
+    rake db:migrate
