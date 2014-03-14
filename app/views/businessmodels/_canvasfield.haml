@@ -2,10 +2,10 @@
   .panel-heading
     %b= link_to field.title, field
     %br
-    = link_to_modal '+', new_postit_path(@new_postit, :field => field.id), :title => "New", :class => "badge"
     .badge
       - if field.comments.count > 0
         = link_to_modal field.comments.count, comments_path(:fieldid => field.id)
       - else
         no comments
+    = link_to_modal 'New postit', new_postit_path(@new_postit, :field => field.id), :title => "New", :class => "badge"
 = render field.postits

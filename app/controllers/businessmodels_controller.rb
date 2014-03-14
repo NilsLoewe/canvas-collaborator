@@ -1,5 +1,7 @@
 class BusinessmodelsController < ApplicationController
 
+  before_filter :load_username, :only => [:show]
+
   def new
     @businessmodel = Businessmodel.new
     @businessmodel.save
@@ -28,6 +30,10 @@ class BusinessmodelsController < ApplicationController
     @coststructure     = @businessmodel.canvas_fields.find_by_title("Cost Structure")
     @revenuestreams    = @businessmodel.canvas_fields.find_by_title("Revenue Streams")
     session[:model_id] = @businessmodel.id
+  end
+
+  def user
+    session[:username] = params[:username]
   end
 
 end

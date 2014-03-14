@@ -1,23 +1,25 @@
 .row.top
-  .pull-right
-    = link_to 'Businessmodel', @canvasfield.businessmodel
-.row.bottom
+  .pull-left
+    %strong= link_to 'Back to Businessmodel', @canvasfield.businessmodel
+.row.top.bottom
   .col-md-10.nopadding
-    .panel.panel-default
-      .panel-heading
-        = @canvasfield.title
-        .pull-right
-          = link_to_modal '+', new_postit_path(@new_postit, :field => @canvasfield.id), :title => "New", :class => "badge"
-      .panel-body
-        .row
-          - @canvasfield.postits.each do |p|
-            .col-md-4
-              .panel.panel-warning
-                .panel-heading
-                  = link_to_modal p.title, edit_postit_path(p), :title => "Edit"
-                .panel-body
-                  = p.content
+    .f2
+      .panel.panel-default
+        .panel-heading
+          = @canvasfield.title
+          .pull-right
+            = link_to_modal '+', new_postit_path(@new_postit, :field => @canvasfield.id), :title => "New", :class => "badge"
+        .panel-body
+          .row
+            - @canvasfield.postits.each do |p|
+              .col-md-4
+                .panel.panel-warning
+                  .panel-heading
+                    = link_to_modal p.title, edit_postit_path(p), :title => "Edit"
+                  .panel-body
+                    = p.content
   .col-md-2
+    = render :partial => 'shared/username'
     .panel.panel-default
       .panel-heading
         = link_to_modal 'Kommentare', comments_path(:fieldid => @canvasfield.id)

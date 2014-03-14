@@ -9,4 +9,11 @@ class ApplicationController < ActionController::Base
     @businessmodel = Businessmodel.find(session[:model_id]) if current_model?
   end
 
+  def load_username
+    if session[:username]
+      @username = session[:username]
+    else
+      @username = "unnamed"
+    end
+  end
 end

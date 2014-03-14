@@ -1,0 +1,8 @@
+.panel.panel-default
+  .panel-heading
+    Who are you?
+  .panel-body
+    = form_for(@username) do |f|
+      .field
+        = f.text_field(:username, :size => 12)
+        = f.submit "ok", class: "btn btn-xs"

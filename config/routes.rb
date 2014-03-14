@@ -1,6 +1,11 @@
 Canvas::Application.routes.draw do
 
-  resources :businessmodels
+  resources :businessmodelsdo
+    member do
+      get 'show'
+    end
+  end
+
   resources :canvas_fields
   resources :postits
   resources :comments

@@ -27,6 +27,7 @@
     .f2
       = render :partial => 'canvasfield', :locals => { :field => @customersegments }
   .col-md-2
+    = render :partial => 'shared/username'
     .panel.panel-default
       .panel-heading
         = link_to_modal 'Kommentare', comments_path
