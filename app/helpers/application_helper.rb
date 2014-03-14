@@ -2,7 +2,7 @@ module ApplicationHelper
 
   # Returns the full title on a per-page basis.
   def full_title(page_title)
-    base_title = "Proofler"
+    base_title = "Canvas Collaborator"
     if (page_title.nil? or page_title.empty?)
       base_title
     else

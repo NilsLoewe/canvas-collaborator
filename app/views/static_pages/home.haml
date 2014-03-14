@@ -1,3 +1,18 @@
-This is the start page. Something should happen here...
+.row
+.col-md-3
+.col-md-6
+  .startpage
+    %h3 Welcome to the Canvas Collaborator
 
-= link_to "New canvas", new_businessmodel_path
+    .top
+      This is a simple application that helps you to create and discuss your business
+      model with your team, using the 'business model canvas' known from the book
+      'business model generation'.
+
+    .top
+      The tool is completely free and open source, so just start testing or using it:
+
+    .top.bottom
+      = link_to('Create Canvas', new_businessmodel_path, :class => "btn btn-large btn-primary")
+
+.col-md-3
