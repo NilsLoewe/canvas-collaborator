@@ -31,7 +31,6 @@ end
 
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
-gem 'jquery-modal-rails'
 gem 'haml', '~> 4.0.5'
 gem 'twitter-bootstrap-rails', git: 'https://github.com/seyhunak/twitter-bootstrap-rails.git', branch: 'bootstrap3'
 gem 'less-rails'
