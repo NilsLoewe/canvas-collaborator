@@ -1,6 +1,3 @@
-.row
-  %h3= @businessmodel.token
-
 .row.top
   .col-md-10
     .row
@@ -44,10 +41,10 @@
     = render :partial => 'shared/username'
     .panel.panel-default
       .panel-heading
-        = link_to_modal 'Kommentare', comments_path
+        = link_to "Comments", comments_path
         .pull-right
-          = link_to_modal '+', new_comment_path(@new_comment, :commentable_id => @businessmodel.id, :commentable_type => @businessmodel.class), :title => "New", :class => "badge"
+          = link_to '+', new_comment_path(@new_comment, :commentable_id => @businessmodel.id, :commentable_type => @businessmodel.class), :title => "New", :class => "badge"
       .panel-body
         = render @businessmodel.comments.limit(3)
         - if @businessmodel.comments.count > 3
-          = link_to_modal "(" + (@businessmodel.comments.count - 3).to_s + " more...)", comments_path
+          = link_to "(" + (@businessmodel.comments.count - 3).to_s + " more...)", comments_path

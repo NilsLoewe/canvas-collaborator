@@ -3,7 +3,7 @@ class BusinessmodelsController < ApplicationController
   before_filter :load_username, :only => [:show]
 
   def new
-    @businessmodel = Businessmodel.new
+    @businessmodel = Businessmodel.create
     @businessmodel.save
     @businessmodel.canvas_fields.create(:title => "Key Partners")
     @businessmodel.canvas_fields.create(:title => "Key Activities")

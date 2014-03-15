@@ -10,11 +10,11 @@
 
 class Businessmodel < ActiveRecord::Base
 
-  validates :token,  presence: true, length: { maximum: 50 }
+  #validates :token,  presence: true, length: { maximum: 50 }
 
   has_many :canvas_fields
   has_many :comments, as: :commentable
-  after_create :generate_token
+  #after_create :generate_token
 
   protected
 
