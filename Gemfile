@@ -32,3 +32,6 @@ end
 gem 'haml', '~> 4.0.5'
 gem 'less-rails'
 gem 'therubyracer', :platforms => :ruby
+
+ruby "1.9.3"
+
