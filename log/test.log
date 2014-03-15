@@ -1573,3 +1573,5 @@ Connecting to database specified by database.yml
   [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'QVlWMlaYT9MBxKZRDbmQBQ', "created_at" = '2014-03-15 10:57:43.318056', "updated_at" = '2014-03-15 10:57:43.318056' WHERE "businessmodels"."id" = 126
   [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
   [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml

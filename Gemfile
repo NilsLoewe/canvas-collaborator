@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.15'
-gem 'pg', '0.17.0'
+gem 'pg', '0.17.1'
 
 
 # Gems used only for assets and not required
@@ -28,6 +28,7 @@ group :test do
   gem 'simplecov', '>=0.4.2', :require => false
   gem 'ci_reporter', '1.8.0'
 end
+
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'jquery-modal-rails'
