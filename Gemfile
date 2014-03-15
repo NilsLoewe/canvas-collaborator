@@ -32,6 +32,7 @@ end
 gem 'haml', '~> 4.0.5'
 gem 'less-rails'
 gem 'therubyracer', :platforms => :ruby
+gem 'rails_12factor', group: :production
 
-ruby "1.9.3"
+ruby "2.0.0"
 
