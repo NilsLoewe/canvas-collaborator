@@ -1,3 +1,10 @@
 .panel.panel-info
   .panel-heading
+    %small
+      %strong= comment.username
+      said
+      %br
+      = time_ago_in_words(comment.created_at)
+      ago:
+  .panel-body
     = comment.comment

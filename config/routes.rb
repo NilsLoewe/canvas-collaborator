@@ -1,8 +1,8 @@
 Canvas::Application.routes.draw do
 
-  resources :businessmodelsdo
+  resources :businessmodels do
     member do
-      get 'show'
+      post 'user'
     end
   end
 

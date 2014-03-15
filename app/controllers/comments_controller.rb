@@ -2,12 +2,12 @@ class CommentsController < ApplicationController
 
   before_filter :load_model, :only => [:create, :index]
   before_filter :load_comment, :only => [:destroy, :show, :update, :edit]
+  before_filter :load_username, :only => [:new]
 
   def new
     @comment = Comment.new
     @type = params[:commentable_type]
     @cid = params[:commentable_id]
-    #@canvasfield = CanvasField.find(params[:field])
   end
 
   def create

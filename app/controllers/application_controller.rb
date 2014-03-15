@@ -10,8 +10,8 @@ class ApplicationController < ActionController::Base
   end
 
   def load_username
-    if session[:username]
-      @username = session[:username]
+    if cookies[:username]
+      @username = cookies[:username]
     else
       @username = "unnamed"
     end

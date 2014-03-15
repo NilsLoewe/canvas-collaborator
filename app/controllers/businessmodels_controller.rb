@@ -33,7 +33,8 @@ class BusinessmodelsController < ApplicationController
   end
 
   def user
-    session[:username] = params[:username]
+    cookies[:username] = params[:businessmodel][:username]
+    redirect_to :back
   end
 
 end

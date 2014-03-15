@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20140309101752) do
+ActiveRecord::Schema.define(:version => 20140315084129) do
 
   create_table "businessmodels", :force => true do |t|
     t.string   "hashtag"
@@ -32,6 +32,7 @@ ActiveRecord::Schema.define(:version => 20140309101752) do
     t.datetime "created_at",       :null => false
     t.datetime "updated_at",       :null => false
     t.string   "commentable_type"
+    t.string   "username"
   end
 
   create_table "postits", :force => true do |t|
