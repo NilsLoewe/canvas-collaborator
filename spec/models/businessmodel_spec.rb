@@ -18,9 +18,27 @@ describe Businessmodel do
 
   subject { @businessmodel }
 
-  it { should respond_to(:token) }
-  it { should be_valid }
+  describe "accessible attributes" do
+    it "should not allow access to token" do
+      expect do
+        Businessmodel.new(token: "abcdefg")
+      end.to raise_error(ActiveModel::MassAssignmentSecurity::Error)
+    end
 
+    describe "when token is not present" do
+      before { @businessmodel.token = nil }
+      it { should_not be_valid }
+    end
 
+    describe "when token is not present" do
+      before { @businessmodel.token = " " }
+      it { should_not be_valid }
+    end
+
+    describe "when token is too long" do
+      before { @businessmodel.token = "a" * 51 }
+      it { should_not be_valid }
+    end
+  end
 
 end

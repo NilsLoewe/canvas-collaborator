@@ -15,4 +15,7 @@ class CanvasField < ActiveRecord::Base
   belongs_to :businessmodel
   has_many :postits
   has_many :comments, as: :commentable
+
+  validates :title, presence: true, length: { maximum: 50 }
+  validates :businessmodel_id, presence: true
 end

@@ -9,7 +9,8 @@
 #
 
 class Businessmodel < ActiveRecord::Base
-  attr_accessible :token
+
+  validates :token,  presence: true, length: { maximum: 50 }
 
   has_many :canvas_fields
   has_many :comments, as: :commentable

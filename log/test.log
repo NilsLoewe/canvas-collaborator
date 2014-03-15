@@ -68,3 +68,1508 @@ Connecting to database specified by database.yml
   [1m[35m (0.1ms)[0m  ROLLBACK
   [1m[36m (0.1ms)[0m  [1mBEGIN[0m
   [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.1ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:50:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:50:09 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'NkG8E0Ap1csfx34o-AYAyQ', "created_at" = '2014-03-15 10:50:09.546553', "updated_at" = '2014-03-15 10:50:09.546553' WHERE "businessmodels"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:50:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:50:09 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'tt6VnPQ0PCnm51echMKLVQ', "created_at" = '2014-03-15 10:50:09.556390', "updated_at" = '2014-03-15 10:50:09.556390' WHERE "businessmodels"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:50:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:50:09 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'dR4YokkExbLBs8N1lD9vAg', "created_at" = '2014-03-15 10:50:09.559642', "updated_at" = '2014-03-15 10:50:09.559642' WHERE "businessmodels"."id" = 3
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.5ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:13 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:13 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'bFe0ZbhA7ylljGWrkdSxeg', "created_at" = '2014-03-15 10:51:13.275897', "updated_at" = '2014-03-15 10:51:13.275897' WHERE "businessmodels"."id" = 4
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:13 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:13 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'XwgpqgM70UQtDDa3rN0byQ', "created_at" = '2014-03-15 10:51:13.287982', "updated_at" = '2014-03-15 10:51:13.287982' WHERE "businessmodels"."id" = 5
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:13 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:13 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = '30-T5HQc0TrCxv6zWmm5lQ', "created_at" = '2014-03-15 10:51:13.292331', "updated_at" = '2014-03-15 10:51:13.292331' WHERE "businessmodels"."id" = 6
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.7ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:19 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:19 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'ex2qTJPoGIaD9bGo1L9OmQ', "created_at" = '2014-03-15 10:51:19.100232', "updated_at" = '2014-03-15 10:51:19.100232' WHERE "businessmodels"."id" = 7
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:19 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:19 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'ghHcW_X1Llc-3P7FkRFaLQ', "created_at" = '2014-03-15 10:51:19.141752', "updated_at" = '2014-03-15 10:51:19.141752' WHERE "businessmodels"."id" = 8
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:19 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:19 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'e2v_vHM8laiKIMrBoGEqBQ', "created_at" = '2014-03-15 10:51:19.145129', "updated_at" = '2014-03-15 10:51:19.145129' WHERE "businessmodels"."id" = 9
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.3ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (28.8ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:25 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:25 UTC +00:00]]
+  [1m[35m (0.5ms)[0m  UPDATE "businessmodels" SET "token" = 'YoTvIcpgMdzP0aUOVJvGcw', "created_at" = '2014-03-15 10:51:25.050176', "updated_at" = '2014-03-15 10:51:25.050176' WHERE "businessmodels"."id" = 10
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:25 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:25 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'MLQFOcmF9S7z92OzQoVX3Q', "created_at" = '2014-03-15 10:51:25.115299', "updated_at" = '2014-03-15 10:51:25.115299' WHERE "businessmodels"."id" = 11
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:25 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:25 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'dvKDWiZjLmtOnjVeESbGzg', "created_at" = '2014-03-15 10:51:25.118726', "updated_at" = '2014-03-15 10:51:25.118726' WHERE "businessmodels"."id" = 12
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (28.6ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:51 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:51 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'vgY8-W_aNjgYDc2UTXrf0A', "created_at" = '2014-03-15 10:51:51.151851', "updated_at" = '2014-03-15 10:51:51.151851' WHERE "businessmodels"."id" = 13
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:51 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:51 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'Hs0bfF839B6LtV-kgEnCaA', "created_at" = '2014-03-15 10:51:51.254986', "updated_at" = '2014-03-15 10:51:51.254986' WHERE "businessmodels"."id" = 14
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:51 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:51 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'PmeoN4VZNd6Ft5xGZkbFpA', "created_at" = '2014-03-15 10:51:51.259035', "updated_at" = '2014-03-15 10:51:51.259035' WHERE "businessmodels"."id" = 15
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (26.5ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:57 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:57 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'wqiCIMcuWnq2w5UrK2LS0w', "created_at" = '2014-03-15 10:51:57.092274', "updated_at" = '2014-03-15 10:51:57.092274' WHERE "businessmodels"."id" = 16
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:57 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:57 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'oQdNIwAJqVlAyVCxBkSjVA', "created_at" = '2014-03-15 10:51:57.189037', "updated_at" = '2014-03-15 10:51:57.189037' WHERE "businessmodels"."id" = 17
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:51:57 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:51:57 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '71SjHLDpqR31yWsx9JiPiA', "created_at" = '2014-03-15 10:51:57.192855', "updated_at" = '2014-03-15 10:51:57.192855' WHERE "businessmodels"."id" = 18
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:47 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:47 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'MCM1QkfENfwyxiziNFqxGA', "created_at" = '2014-03-15 10:52:47.774385', "updated_at" = '2014-03-15 10:52:47.774385' WHERE "businessmodels"."id" = 19
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:47 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:47 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'Hrwr19aGz9jD997vAEf2xw', "created_at" = '2014-03-15 10:52:47.851899', "updated_at" = '2014-03-15 10:52:47.851899' WHERE "businessmodels"."id" = 20
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:47 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:47 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '9AlyS2bALsSharNxQKzRQg', "created_at" = '2014-03-15 10:52:47.856081', "updated_at" = '2014-03-15 10:52:47.856081' WHERE "businessmodels"."id" = 21
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.5ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'VTCdwQcHi-DrIlSUJKIb9g', "created_at" = '2014-03-15 10:52:56.596879', "updated_at" = '2014-03-15 10:52:56.596879' WHERE "businessmodels"."id" = 22
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'xYnRbbPIL9bCu2OD_XVYoQ', "created_at" = '2014-03-15 10:52:56.674362', "updated_at" = '2014-03-15 10:52:56.674362' WHERE "businessmodels"."id" = 23
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'Pq9f14qr5tyIVrrZGQSK8Q', "created_at" = '2014-03-15 10:52:56.678132', "updated_at" = '2014-03-15 10:52:56.678132' WHERE "businessmodels"."id" = 24
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'mkfRMjs06f4J2cBtvjl1yg', "created_at" = '2014-03-15 10:52:56.710844', "updated_at" = '2014-03-15 10:52:56.710844' WHERE "businessmodels"."id" = 25
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (22.6ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'I0IwIjvl2dyoMCBfLQTGtA', "created_at" = '2014-03-15 10:52:56.740053', "updated_at" = '2014-03-15 10:52:56.740053' WHERE "businessmodels"."id" = 26
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'MiMaGyBoYNykZd0OkKiquw', "created_at" = '2014-03-15 10:52:56.744271', "updated_at" = '2014-03-15 10:52:56.744271' WHERE "businessmodels"."id" = 27
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:52:56 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'FHmSTQTZM8IUbzwB2BS2Jg', "created_at" = '2014-03-15 10:52:56.748046', "updated_at" = '2014-03-15 10:52:56.748046' WHERE "businessmodels"."id" = 28
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (36.2ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'x35zh9w8Jda0WVJtCECx4w', "created_at" = '2014-03-15 10:53:02.721684', "updated_at" = '2014-03-15 10:53:02.721684' WHERE "businessmodels"."id" = 29
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'ep-7livATDcZTtWzB8AJxA', "created_at" = '2014-03-15 10:53:02.833265', "updated_at" = '2014-03-15 10:53:02.833265' WHERE "businessmodels"."id" = 30
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'K6j1hbhJWN-6ItQKgUY0pg', "created_at" = '2014-03-15 10:53:02.837086', "updated_at" = '2014-03-15 10:53:02.837086' WHERE "businessmodels"."id" = 31
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'PzuZ9_ApxmWcoDRxmr8IAQ', "created_at" = '2014-03-15 10:53:02.871037', "updated_at" = '2014-03-15 10:53:02.871037' WHERE "businessmodels"."id" = 32
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'Ct4o0otw9ot8e5hVEWCsDQ', "created_at" = '2014-03-15 10:53:02.877251', "updated_at" = '2014-03-15 10:53:02.877251' WHERE "businessmodels"."id" = 33
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '9KMjQZ_LOqOvOzfQtWB89g', "created_at" = '2014-03-15 10:53:02.881354', "updated_at" = '2014-03-15 10:53:02.881354' WHERE "businessmodels"."id" = 34
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:02 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'wgcUQ_XqrJW-0pPewZ1_0A', "created_at" = '2014-03-15 10:53:02.885080', "updated_at" = '2014-03-15 10:53:02.885080' WHERE "businessmodels"."id" = 35
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (9.2ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'Wu1xvgJq2X-NIaZGBS3QAg', "created_at" = '2014-03-15 10:53:09.189240', "updated_at" = '2014-03-15 10:53:09.189240' WHERE "businessmodels"."id" = 36
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '7H5IhEi9TocSJiW7CUfqDQ', "created_at" = '2014-03-15 10:53:09.271207', "updated_at" = '2014-03-15 10:53:09.271207' WHERE "businessmodels"."id" = 37
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = '8dpz-vg78fICD9ttE1pqpQ', "created_at" = '2014-03-15 10:53:09.275900', "updated_at" = '2014-03-15 10:53:09.275900' WHERE "businessmodels"."id" = 38
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'IZGg_9utP_J0GLL7SOXn2w', "created_at" = '2014-03-15 10:53:09.309853', "updated_at" = '2014-03-15 10:53:09.309853' WHERE "businessmodels"."id" = 39
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (23.6ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'jNICW1B32gDYBRLwcgVwkA', "created_at" = '2014-03-15 10:53:09.340327', "updated_at" = '2014-03-15 10:53:09.340327' WHERE "businessmodels"."id" = 40
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'caSu6oYzcKBpMpnFQdwiSA', "created_at" = '2014-03-15 10:53:09.345635', "updated_at" = '2014-03-15 10:53:09.345635' WHERE "businessmodels"."id" = 41
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:53:09 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '2amfZOrMs-XfBHqw8ukoFg', "created_at" = '2014-03-15 10:53:09.349475', "updated_at" = '2014-03-15 10:53:09.349475' WHERE "businessmodels"."id" = 42
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.7ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'S6QHFvm9nERRLXmDLPVjfw', "created_at" = '2014-03-15 10:54:29.071494', "updated_at" = '2014-03-15 10:54:29.071494' WHERE "businessmodels"."id" = 43
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'XUksAst9vRn7hfFQ47cFGQ', "created_at" = '2014-03-15 10:54:29.152140', "updated_at" = '2014-03-15 10:54:29.152140' WHERE "businessmodels"."id" = 44
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'iUgY9c4ThGcyZL1R826Bzg', "created_at" = '2014-03-15 10:54:29.156800', "updated_at" = '2014-03-15 10:54:29.156800' WHERE "businessmodels"."id" = 45
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'Fh5-JhEwLucUTI7yv2z_Uw', "created_at" = '2014-03-15 10:54:29.190943', "updated_at" = '2014-03-15 10:54:29.190943' WHERE "businessmodels"."id" = 46
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'p34M-KFlZ5m9C4ZBJo6AGQ', "created_at" = '2014-03-15 10:54:29.221608', "updated_at" = '2014-03-15 10:54:29.221608' WHERE "businessmodels"."id" = 47
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'NDcDXjwolSFt8cqxcpqayw', "created_at" = '2014-03-15 10:54:29.226509', "updated_at" = '2014-03-15 10:54:29.226509' WHERE "businessmodels"."id" = 48
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:29 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'JVWOYD3Ay6ooCEAYXq120A', "created_at" = '2014-03-15 10:54:29.230672', "updated_at" = '2014-03-15 10:54:29.230672' WHERE "businessmodels"."id" = 49
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.7ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'kEu_PD8DWa1GJmg76GnZCQ', "created_at" = '2014-03-15 10:54:35.173339', "updated_at" = '2014-03-15 10:54:35.173339' WHERE "businessmodels"."id" = 50
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'nA7Zr4rrvNMbivTzTjIF7w', "created_at" = '2014-03-15 10:54:35.253579', "updated_at" = '2014-03-15 10:54:35.253579' WHERE "businessmodels"."id" = 51
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '7hEAGzUC7rAf3dRicx74RA', "created_at" = '2014-03-15 10:54:35.257736', "updated_at" = '2014-03-15 10:54:35.257736' WHERE "businessmodels"."id" = 52
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'bMauFXc7Nh476tT0CwqQQw', "created_at" = '2014-03-15 10:54:35.291393', "updated_at" = '2014-03-15 10:54:35.291393' WHERE "businessmodels"."id" = 53
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'YC0FCWjAjS81p76_6PRCAw', "created_at" = '2014-03-15 10:54:35.322289', "updated_at" = '2014-03-15 10:54:35.322289' WHERE "businessmodels"."id" = 54
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'JsmEZq0CsysUqBBx9_m-6A', "created_at" = '2014-03-15 10:54:35.327281', "updated_at" = '2014-03-15 10:54:35.327281' WHERE "businessmodels"."id" = 55
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:54:35 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '0nTYaYt1x3PqxBr0T1ezXA', "created_at" = '2014-03-15 10:54:35.331132', "updated_at" = '2014-03-15 10:54:35.331132' WHERE "businessmodels"."id" = 56
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.6ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'EWbFfQTENCFAGOAsOfPgOQ', "created_at" = '2014-03-15 10:55:24.730656', "updated_at" = '2014-03-15 10:55:24.730656' WHERE "businessmodels"."id" = 57
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = '8nb3zctCDdXt9lfSJJzimQ', "created_at" = '2014-03-15 10:55:24.811451', "updated_at" = '2014-03-15 10:55:24.811451' WHERE "businessmodels"."id" = 58
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'KDYtbhosbRzeBiWAQi2-cA', "created_at" = '2014-03-15 10:55:24.815753', "updated_at" = '2014-03-15 10:55:24.815753' WHERE "businessmodels"."id" = 59
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'ULXZEd50rQTRDoQHdAItWg', "created_at" = '2014-03-15 10:55:24.852122', "updated_at" = '2014-03-15 10:55:24.852122' WHERE "businessmodels"."id" = 60
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'LlvhwrIQ5lTlyTe6Np6u_A', "created_at" = '2014-03-15 10:55:24.882872', "updated_at" = '2014-03-15 10:55:24.882872' WHERE "businessmodels"."id" = 61
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'Al0Emvkx18wCumVtinHBLg', "created_at" = '2014-03-15 10:55:24.887716', "updated_at" = '2014-03-15 10:55:24.887716' WHERE "businessmodels"."id" = 62
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:55:24 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '5hBp64KRhnC5KafBQJxp5w', "created_at" = '2014-03-15 10:55:24.892534', "updated_at" = '2014-03-15 10:55:24.892534' WHERE "businessmodels"."id" = 63
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.7ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'Og5GDfyRPXIQeXilxqMB4Q', "created_at" = '2014-03-15 10:56:00.058911', "updated_at" = '2014-03-15 10:56:00.058911' WHERE "businessmodels"."id" = 64
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'EMrQ-ur7UzbauaGMJ_cgiw', "created_at" = '2014-03-15 10:56:00.139633', "updated_at" = '2014-03-15 10:56:00.139633' WHERE "businessmodels"."id" = 65
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '63AEILDZsOpqH3j6vLs4ZQ', "created_at" = '2014-03-15 10:56:00.143423', "updated_at" = '2014-03-15 10:56:00.143423' WHERE "businessmodels"."id" = 66
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'Ze1wwhDfO74u9aqw01QG0Q', "created_at" = '2014-03-15 10:56:00.177335', "updated_at" = '2014-03-15 10:56:00.177335' WHERE "businessmodels"."id" = 67
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'ZDnWs00rvN72I0Mk3Vwz_A', "created_at" = '2014-03-15 10:56:00.207539', "updated_at" = '2014-03-15 10:56:00.207539' WHERE "businessmodels"."id" = 68
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'eQGCK3fezbUpXlfNLmgADA', "created_at" = '2014-03-15 10:56:00.212320', "updated_at" = '2014-03-15 10:56:00.212320' WHERE "businessmodels"."id" = 69
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:00 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '-Z0Kibfr8SLW-77cXehYWA', "created_at" = '2014-03-15 10:56:00.216304', "updated_at" = '2014-03-15 10:56:00.216304' WHERE "businessmodels"."id" = 70
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = '0xe8RnUnNHcpNO-ozsq_UA', "created_at" = '2014-03-15 10:56:06.162547', "updated_at" = '2014-03-15 10:56:06.162547' WHERE "businessmodels"."id" = 71
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '27dYcj5K5l6ZNvvH75rlZQ', "created_at" = '2014-03-15 10:56:06.240680', "updated_at" = '2014-03-15 10:56:06.240680' WHERE "businessmodels"."id" = 72
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'dp8sS2uOvPNm7-5vL1u8Gw', "created_at" = '2014-03-15 10:56:06.244492', "updated_at" = '2014-03-15 10:56:06.244492' WHERE "businessmodels"."id" = 73
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'I51jc9WH1LgjB9pWh9Ij6g', "created_at" = '2014-03-15 10:56:06.277677', "updated_at" = '2014-03-15 10:56:06.277677' WHERE "businessmodels"."id" = 74
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '7Nuf2LxIhEuY8Lw61trugQ', "created_at" = '2014-03-15 10:56:06.307499', "updated_at" = '2014-03-15 10:56:06.307499' WHERE "businessmodels"."id" = 75
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '7xDKO-Hnlk_fh7mrEOM8mg', "created_at" = '2014-03-15 10:56:06.312025', "updated_at" = '2014-03-15 10:56:06.312025' WHERE "businessmodels"."id" = 76
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:06 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '7NOwgpNXxlYaJxGgg73hAQ', "created_at" = '2014-03-15 10:56:06.316385', "updated_at" = '2014-03-15 10:56:06.316385' WHERE "businessmodels"."id" = 77
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.0ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = '2CRteJQrBcw4xXa26b1nLA', "created_at" = '2014-03-15 10:56:27.203145', "updated_at" = '2014-03-15 10:56:27.203145' WHERE "businessmodels"."id" = 78
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'qT3gJLsXcgJnmuvOA8F1TA', "created_at" = '2014-03-15 10:56:27.290820', "updated_at" = '2014-03-15 10:56:27.290820' WHERE "businessmodels"."id" = 79
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = '2QMsVUMyRafQV2f59glH8Q', "created_at" = '2014-03-15 10:56:27.295687', "updated_at" = '2014-03-15 10:56:27.295687' WHERE "businessmodels"."id" = 80
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'yArdmZzj-TXIiDCxqv2M_w', "created_at" = '2014-03-15 10:56:27.329365', "updated_at" = '2014-03-15 10:56:27.329365' WHERE "businessmodels"."id" = 81
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'qYxmZkgRqOC4-RUZn2kQIQ', "created_at" = '2014-03-15 10:56:27.358448', "updated_at" = '2014-03-15 10:56:27.358448' WHERE "businessmodels"."id" = 82
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'A1RbIJkh0F1FKJOn0LN1Jw', "created_at" = '2014-03-15 10:56:27.363624', "updated_at" = '2014-03-15 10:56:27.363624' WHERE "businessmodels"."id" = 83
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:27 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '_mYyqoHHYGr2u3QAFRAPsA', "created_at" = '2014-03-15 10:56:27.368016', "updated_at" = '2014-03-15 10:56:27.368016' WHERE "businessmodels"."id" = 84
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (28.1ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = '6jql8Iz3X1OFAtNazUdDEg', "created_at" = '2014-03-15 10:56:33.379861', "updated_at" = '2014-03-15 10:56:33.379861' WHERE "businessmodels"."id" = 85
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '3pnE8SBSEFby8gR5DhXqKQ', "created_at" = '2014-03-15 10:56:33.481118', "updated_at" = '2014-03-15 10:56:33.481118' WHERE "businessmodels"."id" = 86
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'vOnCvVeeO6Y6LHix9q4Adg', "created_at" = '2014-03-15 10:56:33.484986', "updated_at" = '2014-03-15 10:56:33.484986' WHERE "businessmodels"."id" = 87
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'eWLBRY9X4aBTw9Gr7Uhf8Q', "created_at" = '2014-03-15 10:56:33.518737', "updated_at" = '2014-03-15 10:56:33.518737' WHERE "businessmodels"."id" = 88
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'IAuQ5qEM-echrPsz491FYA', "created_at" = '2014-03-15 10:56:33.522953', "updated_at" = '2014-03-15 10:56:33.522953' WHERE "businessmodels"."id" = 89
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:33 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'a2IKIV02DX2mo2QmrjyVCg', "created_at" = '2014-03-15 10:56:33.527287', "updated_at" = '2014-03-15 10:56:33.527287' WHERE "businessmodels"."id" = 90
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (28.6ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'lLEEIAxBXXHRBM6H0JUHeg', "created_at" = '2014-03-15 10:56:39.251482', "updated_at" = '2014-03-15 10:56:39.251482' WHERE "businessmodels"."id" = 91
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'juPP3S0xOARVUGnoAwn1hA', "created_at" = '2014-03-15 10:56:39.356706', "updated_at" = '2014-03-15 10:56:39.356706' WHERE "businessmodels"."id" = 92
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'UCUaQ2P39f_B6GHSSaeE7Q', "created_at" = '2014-03-15 10:56:39.360749', "updated_at" = '2014-03-15 10:56:39.360749' WHERE "businessmodels"."id" = 93
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'AGREAs3I4MlnmjZx_rtsGg', "created_at" = '2014-03-15 10:56:39.395943', "updated_at" = '2014-03-15 10:56:39.395943' WHERE "businessmodels"."id" = 94
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'dIN-9vFg8_hdmfOk5akLow', "created_at" = '2014-03-15 10:56:39.401183', "updated_at" = '2014-03-15 10:56:39.401183' WHERE "businessmodels"."id" = 95
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:56:39 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'wKPs2DrELGGGhBkZvGvo2w', "created_at" = '2014-03-15 10:56:39.405765', "updated_at" = '2014-03-15 10:56:39.405765' WHERE "businessmodels"."id" = 96
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (28.7ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'YbUu_pe2y3unKe3ttvAT0Q', "created_at" = '2014-03-15 10:57:16.074130', "updated_at" = '2014-03-15 10:57:16.074130' WHERE "businessmodels"."id" = 97
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'XJEMKgIChb7wNDvQxJS5WA', "created_at" = '2014-03-15 10:57:16.177775', "updated_at" = '2014-03-15 10:57:16.177775' WHERE "businessmodels"."id" = 98
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'paolmkhrRJmoqty4zrhs6Q', "created_at" = '2014-03-15 10:57:16.182287', "updated_at" = '2014-03-15 10:57:16.182287' WHERE "businessmodels"."id" = 99
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'Y2R4YI7kRbsA_cbQVIpmmg', "created_at" = '2014-03-15 10:57:16.216626', "updated_at" = '2014-03-15 10:57:16.216626' WHERE "businessmodels"."id" = 100
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'biZnkXK8N3SmPsUp11_RGw', "created_at" = '2014-03-15 10:57:16.220912', "updated_at" = '2014-03-15 10:57:16.220912' WHERE "businessmodels"."id" = 101
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:16 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'TSw_fyoD-eduFYMTu7ZFeg', "created_at" = '2014-03-15 10:57:16.225204', "updated_at" = '2014-03-15 10:57:16.225204' WHERE "businessmodels"."id" = 102
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'tz25_-6IHLYst5PSCjvoxA', "created_at" = '2014-03-15 10:57:22.266939', "updated_at" = '2014-03-15 10:57:22.266939' WHERE "businessmodels"."id" = 103
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'hS6503uyiNG2jZ9vKWeM0A', "created_at" = '2014-03-15 10:57:22.344214', "updated_at" = '2014-03-15 10:57:22.344214' WHERE "businessmodels"."id" = 104
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'jE8DmiiyIbJOG1u_ogZ-Vw', "created_at" = '2014-03-15 10:57:22.348999', "updated_at" = '2014-03-15 10:57:22.348999' WHERE "businessmodels"."id" = 105
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'f9ceau0bQ_vX2nilIHV5Tg', "created_at" = '2014-03-15 10:57:22.382094', "updated_at" = '2014-03-15 10:57:22.382094' WHERE "businessmodels"."id" = 106
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 't44qQhWswgJD4UmkEwq9OA', "created_at" = '2014-03-15 10:57:22.386401', "updated_at" = '2014-03-15 10:57:22.386401' WHERE "businessmodels"."id" = 107
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:22 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'g-ooVqa1ODaaUh9SIUqnYQ', "created_at" = '2014-03-15 10:57:22.393741', "updated_at" = '2014-03-15 10:57:22.393741' WHERE "businessmodels"."id" = 108
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (29.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'dq8GKqNu6JHj_WFyG3BwNg', "created_at" = '2014-03-15 10:57:28.224132', "updated_at" = '2014-03-15 10:57:28.224132' WHERE "businessmodels"."id" = 109
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'YV34B3iia7VbEaqb97S1aQ', "created_at" = '2014-03-15 10:57:28.327842', "updated_at" = '2014-03-15 10:57:28.327842' WHERE "businessmodels"."id" = 110
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'LnNSVrHRW_azL_lHkRRGrQ', "created_at" = '2014-03-15 10:57:28.331720', "updated_at" = '2014-03-15 10:57:28.331720' WHERE "businessmodels"."id" = 111
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'EcZMM6oRwksEY1OnwyrGDw', "created_at" = '2014-03-15 10:57:28.365787', "updated_at" = '2014-03-15 10:57:28.365787' WHERE "businessmodels"."id" = 112
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'AQlX295oLAm6faepw7Mzqw', "created_at" = '2014-03-15 10:57:28.373064', "updated_at" = '2014-03-15 10:57:28.373064' WHERE "businessmodels"."id" = 113
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:28 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'pddllJrowsoRDKFf9m0mCQ', "created_at" = '2014-03-15 10:57:28.377557', "updated_at" = '2014-03-15 10:57:28.377557' WHERE "businessmodels"."id" = 114
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.4ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = '1WB5cqCeTztxQTfSFw-KDw', "created_at" = '2014-03-15 10:57:34.395248', "updated_at" = '2014-03-15 10:57:34.395248' WHERE "businessmodels"."id" = 115
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'Bxiv3U7fn0AS92PdGR5JsQ', "created_at" = '2014-03-15 10:57:34.474578', "updated_at" = '2014-03-15 10:57:34.474578' WHERE "businessmodels"."id" = 116
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'hJl5mVx8YAj02HAKPNA_NA', "created_at" = '2014-03-15 10:57:34.478490', "updated_at" = '2014-03-15 10:57:34.478490' WHERE "businessmodels"."id" = 117
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'GevXtnTzBvkG4tzO42FuPg', "created_at" = '2014-03-15 10:57:34.512229', "updated_at" = '2014-03-15 10:57:34.512229' WHERE "businessmodels"."id" = 118
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'EFI14lSxr1C4PpmQLZ3lig', "created_at" = '2014-03-15 10:57:34.519427', "updated_at" = '2014-03-15 10:57:34.519427' WHERE "businessmodels"."id" = 119
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:34 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'BvK3FFzUk86S1eX-qZjqow', "created_at" = '2014-03-15 10:57:34.523956', "updated_at" = '2014-03-15 10:57:34.523956' WHERE "businessmodels"."id" = 120
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.2ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  UPDATE "businessmodels" SET "token" = 'DnOL3kBxhKsBVttYQlDVHg', "created_at" = '2014-03-15 10:57:43.219515', "updated_at" = '2014-03-15 10:57:43.219515' WHERE "businessmodels"."id" = 121
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = '4rHV6y5k79wD2id0DEhjaQ', "created_at" = '2014-03-15 10:57:43.298888', "updated_at" = '2014-03-15 10:57:43.298888' WHERE "businessmodels"."id" = 122
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = '4DjS-u68ic_XHRl8ZECm4g', "created_at" = '2014-03-15 10:57:43.303234', "updated_at" = '2014-03-15 10:57:43.303234' WHERE "businessmodels"."id" = 123
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  UPDATE "businessmodels" SET "token" = 'PBf65AltmMVra2dUkSb57w', "created_at" = '2014-03-15 10:57:43.307620', "updated_at" = '2014-03-15 10:57:43.307620' WHERE "businessmodels"."id" = 124
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'dSUAtmwehrU5XwxB45XeKQ', "created_at" = '2014-03-15 10:57:43.313147', "updated_at" = '2014-03-15 10:57:43.313147' WHERE "businessmodels"."id" = 125
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "businessmodels" ("created_at", "token", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00], ["token", "abcde"], ["updated_at", Sat, 15 Mar 2014 10:57:43 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  UPDATE "businessmodels" SET "token" = 'QVlWMlaYT9MBxKZRDbmQBQ', "created_at" = '2014-03-15 10:57:43.318056', "updated_at" = '2014-03-15 10:57:43.318056' WHERE "businessmodels"."id" = 126
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
