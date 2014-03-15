@@ -29,9 +29,6 @@ group :test do
   gem 'ci_reporter', '1.8.0'
 end
 
-gem 'jquery-rails'
-gem 'jquery-ui-rails'
 gem 'haml', '~> 4.0.5'
-gem 'twitter-bootstrap-rails', git: 'https://github.com/seyhunak/twitter-bootstrap-rails.git', branch: 'bootstrap3'
 gem 'less-rails'
 gem 'therubyracer', :platforms => :ruby
