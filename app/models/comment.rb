@@ -8,6 +8,7 @@
 #  created_at       :datetime         not null
 #  updated_at       :datetime         not null
 #  commentable_type :string(255)
+#  username         :string(255)
 #
 
 class Comment < ActiveRecord::Base
