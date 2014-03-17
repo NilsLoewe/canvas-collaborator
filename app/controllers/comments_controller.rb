@@ -22,7 +22,6 @@ class CommentsController < ApplicationController
   end
 
   def index
-
     unless params[:fieldid]
       @comments = @businessmodel.comments
     else

@@ -1,6 +1,0 @@
-$modal = $('.modal'),
-$modalBody = $('.modal .modal-body'),
-$modalHeading = $('.modal .modal-heading');
-$modalHeading.html("Comments");
-$modalBody.html("<%= escape_javascript(render @book) %>");
-$modal.modal();
