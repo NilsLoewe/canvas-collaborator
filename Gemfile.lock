@@ -86,6 +86,8 @@ GEM
     hike (1.2.3)
     i18n (0.6.9)
     journey (1.0.4)
+    jquery-ui-rails (4.1.2)
+      railties (>= 3.1.0)
     json (1.8.1)
     less (2.5.0)
       commonjs (~> 0.2.7)
@@ -218,6 +220,7 @@ DEPENDENCIES
   guard-rspec (= 2.4.0)
   guard-spork (= 1.4.1)
   haml (~> 4.0.5)
+  jquery-ui-rails
   less-rails
   libnotify (= 0.8.0)
   pg (= 0.17.1)

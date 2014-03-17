@@ -5,6 +5,12 @@ class CanvasFieldsController < ApplicationController
   before_filter :load_username, :only => [:show]
 
   def show
+    @comment = Comment.new
+    @type = @canvasfield.class
+    @cid = @canvasfield.id
+    @comments = @canvasfield.comments
+
+    @postit = Postit.new
   end
 
   private

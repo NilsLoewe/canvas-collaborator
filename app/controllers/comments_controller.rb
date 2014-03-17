@@ -4,18 +4,11 @@ class CommentsController < ApplicationController
   before_filter :load_comment, :only => [:destroy, :show, :update, :edit]
   before_filter :load_username, :only => [:new]
 
-  def new
-    session[:return_to] = request.referer
-    @comment = Comment.new
-    @type = params[:commentable_type]
-    @cid = params[:commentable_id]
-  end
-
   def create
     if current_model?
       @comment = Comment.new(params[:comment])
       @comment.save
-      redirect_to session[:return_to]
+      redirect_to :back
     else
       redirect_to root_path
     end
@@ -28,6 +21,7 @@ class CommentsController < ApplicationController
       @field = CanvasField.find(params[:fieldid])
       @comments = @field.comments
     end
+
   end
 
   private

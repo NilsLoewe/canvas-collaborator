@@ -30,6 +30,11 @@ class BusinessmodelsController < ApplicationController
     @coststructure     = @businessmodel.canvas_fields.find_by_title("Cost Structure")
     @revenuestreams    = @businessmodel.canvas_fields.find_by_title("Revenue Streams")
     session[:model_id] = @businessmodel.id
+
+    @comment = Comment.new
+    @type = @businessmodel.class
+    @cid = @businessmodel.id
+    @comments = @businessmodel.comments
   end
 
   def user

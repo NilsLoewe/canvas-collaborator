@@ -4,8 +4,7 @@
     %br
     .badge
       - if field.comments.count > 0
-        = link_to field.comments.count.to_s + ' comments', comments_path(:fieldid => field.id)
+        = field.comments.count.to_s + ' comments'
       - else
         no comments
-    = link_to 'New postit', new_postit_path(@new_postit, :field => field.id), :title => "New", :class => "badge"
 = render field.postits

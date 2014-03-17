@@ -1,0 +1,18 @@
+#new_comment.modal.fade{:tabindex => "-1"}
+  .modal-header
+    %h4.modal-title New comment
+  .modal-body
+    .modal-body-content
+      = form_for(@comment) do |f|
+        .field
+          = f.label :username
+          = f.text_field(:username, :value => @username, :size => '10')
+        .field
+          = f.label :comment
+          = f.text_area(:comment, :size => '30x10')
+        .field
+          = f.hidden_field :commentable_id, :value =>  @cid
+          = f.hidden_field :commentable_type, :value => @type
+          = f.submit "Save changes", class: "btn btn-large btn-primary"
+  .modal-footer
+    %button.btn{"data-dismiss" => "modal", :type => "button"} Close

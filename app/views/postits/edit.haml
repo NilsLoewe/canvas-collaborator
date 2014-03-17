@@ -1,10 +1,12 @@
-%h4 Neuer Eintrag
+%h4 Edit postit
 = form_for(@postit) do |f|
   .field
     = f.label :title
+  .field
     = f.text_field(:title, :size => 40)
   .field
     = f.label :content
+  .field
     = f.text_area(:content, :size => '30x10')
   .field
     = f.submit "Save changes", class: "btn btn-large btn-primary"

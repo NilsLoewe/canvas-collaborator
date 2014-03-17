@@ -13,4 +13,7 @@
 //= require jquery-1.11.0.min
 //= require jquery-ui
 //= require bootstrap.min
-//= require_tree .
+//= require bootstrap-modalmanager
+//= require bootstrap-modal
+
+$('body').modalmanager('loading');
