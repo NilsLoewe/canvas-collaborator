@@ -12,6 +12,9 @@ Canvas::Application.routes.draw do
 
   root :to => 'static_pages#home'
 
+  match 'help', :to => 'static_pages#help'
+  match 'about', :to => 'static_pages#about'
+
   # Sample of named route:
   #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase
   # This route can be invoked with purchase_url(:id => product.id)

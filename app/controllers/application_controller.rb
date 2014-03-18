@@ -1,6 +1,8 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
 
+  helper_method :current_model?
+
   def current_model?
     session[:model_id].present?
   end

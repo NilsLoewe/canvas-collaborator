@@ -1,7 +1,7 @@
 .nav.navbar-inverse{:role => "navigation"}
   .container-fluid
     .navbar-header
-      %button(type="button" class = "navbar-toggle" data-toggle="collapse" data-target = "#leo-nav")
+      %button(type="button" class = "navbar-toggle" data-toggle="collapse" data-target = "#canvas-nav")
         %span.sr-only
           Toggle navigation
         %span.icon-bar
@@ -9,6 +9,6 @@
         %span.icon-bar
       = link_to( "Canvas Collaborator", root_url , :class => "brand", :id => "logo")
 
-    .collapse.navbar-collapse#leo-nav
-      %ul.nav.navbar-nav.navbar-left
+    .collapse.navbar-collapse#canvas-nav
+      %ul.nav.navbar-nav.navbar-right
         = yield :main_navigation

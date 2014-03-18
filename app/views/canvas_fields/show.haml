@@ -1,3 +1,5 @@
+- provide(:title, 'Businessmodel')
+- currently_at 'Businessmodel'
 .row.top
   .pull-left
     %strong= link_to 'Back to Businessmodel', @canvasfield.businessmodel
@@ -8,7 +10,7 @@
         .panel-heading
           = @canvasfield.title
           .pull-right
-            = link_to '+', '#new_postit', data: { toggle: "modal" }, :title => "New", :class => "badge"
+            = link_to '+', '#new_postit'+@canvasfield.id.to_s, data: { toggle: "modal" }, :title => "New", :class => "badge"
             = render :partial => 'postits/new',  :locals => { :fieldid => @canvasfield.id }
 
         .panel-body

@@ -1,0 +1,6 @@
+- content_for :main_navigation do
+  -# START_HIGHLIGHT
+  = nav_tab 'Home', root_path, current: current_tab
+  - if current_model?
+    = nav_tab 'Businessmodel', @businessmodel, current: current_tab
+    -# END_HIGHLIGHT
