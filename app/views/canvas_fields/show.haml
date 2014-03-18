@@ -23,14 +23,14 @@
     = render :partial => 'shared/username'
     .panel.panel-default
       .panel-heading
-        = link_to "Comments", '#comments', data: { toggle: "modal" }
+        = link_to "Comments", '#comments_canvas', data: { toggle: "modal" }
         .pull-right
           = link_to '+', '#new_comment', data: { toggle: "modal" }, :title => "New", :class => "badge"
       .panel-body
         = render @canvasfield.comments.limit(3)
         - if @canvasfield.comments.count > 3
-          = link_to "(" + (@canvasfield.comments.count - 3).to_s + " more...)", '#comments', data: { toggle: "modal" }
+          = link_to "(" + (@canvasfield.comments.count - 3).to_s + " more...)", '#comments_canvas', data: { toggle: "modal" }
 
 = render 'comments/new'
-= render 'comments/index'
+= render :partial => 'comments/index', :locals => { :tagit => "canvas", :comments => @comments}
 = render 'postits/new'
