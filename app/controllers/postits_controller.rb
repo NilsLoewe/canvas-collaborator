@@ -26,7 +26,7 @@ class PostitsController < ApplicationController
 
   def update
     if @postit.update_attributes(params[:postit])
-      redirect_to session[:return_to]
+      redirect_to :back#session[:return_to]
     else
       redirect_to root_path
     end

@@ -1,3 +1,4 @@
 .panel.panel-warning
   .panel-heading
-    = link_to postit.title, edit_postit_path(postit), :title => "Edit"
+    = link_to postit.title, '#edit_postit' + postit.id.to_s, data: { toggle: "modal" }
+= render :partial => 'postits/edit', :locals => { :postit => postit}

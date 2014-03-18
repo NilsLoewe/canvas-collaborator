@@ -15,7 +15,8 @@
               .col-md-4
                 .panel.panel-warning
                   .panel-heading
-                    = link_to p.title, edit_postit_path(p), :title => "Edit"
+                    = link_to p.title, '#edit_postit' + p.id.to_s, data: { toggle: "modal" }
+                    = render :partial => 'postits/edit', :locals => { :postit => p}
                   .panel-body
                     = p.content
   .col-md-2
