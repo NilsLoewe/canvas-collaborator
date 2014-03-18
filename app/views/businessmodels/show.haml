@@ -1,5 +1,5 @@
 .row.top
-  .col-md-10
+  .col-md-9
     .row
       .col-md-2.nopadding
         .f2
@@ -37,17 +37,17 @@
         .f
           = render :partial => 'canvasfield', :locals => { :field => @revenuestreams }
 
-  .col-md-2
+  .col-md-3
     = render :partial => 'shared/username'
     .panel.panel-default
       .panel-heading
-        = link_to "Comments", '#comments_main', data: { toggle: "modal" }
+        = link_to "Comments", '#comments_Businessmodel', data: { toggle: "modal" }
         .pull-right
           = link_to '+', '#new_comment', data: { toggle: "modal" }, :title => "New", :class => "badge"
       .panel-body
         = render @businessmodel.comments.limit(3)
         - if @businessmodel.comments.count > 3
-          = link_to "(" + (@businessmodel.comments.count - 3).to_s + " more...)", '#comments_main', data: { toggle: "modal" }
+          = link_to "(" + (@businessmodel.comments.count - 3).to_s + " more...)", '#comments_Businessmodel', data: { toggle: "modal" }
 
 = render 'comments/new'
-= render :partial => 'comments/index', :locals => { :tagit => "main", :comments => @comments}
+= render :partial => 'comments/index', :locals => { :tagit => "Businessmodel", :comments => @comments}

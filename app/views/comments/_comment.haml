@@ -2,9 +2,8 @@
   .panel-heading
     %small
       %strong= comment.username
-      said
-      %br
+      (
       = time_ago_in_words(comment.created_at)
-      ago:
+      ago)
   .panel-body
     = comment.comment

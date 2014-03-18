@@ -2,13 +2,15 @@
   .pull-left
     %strong= link_to 'Back to Businessmodel', @canvasfield.businessmodel
 .row.top.bottom
-  .col-md-10.nopadding
+  .col-md-9.nopadding
     .f2
       .panel.panel-default
         .panel-heading
           = @canvasfield.title
           .pull-right
             = link_to '+', '#new_postit', data: { toggle: "modal" }, :title => "New", :class => "badge"
+            = render :partial => 'postits/new',  :locals => { :fieldid => @canvasfield.id }
+
         .panel-body
           .row
             - @canvasfield.postits.each do |p|
@@ -17,20 +19,23 @@
                   .panel-heading
                     = link_to p.title, '#edit_postit' + p.id.to_s, data: { toggle: "modal" }
                     = render :partial => 'postits/edit', :locals => { :postit => p}
+                    - if p.link
+                      - if p.link.size > 0
+                        .pull-right
+                          = link_to '', url_for(p.link), :target => "_blank", :class => "glyphicon glyphicon-link"
                   .panel-body
                     = p.content
-  .col-md-2
+  .col-md-3
     = render :partial => 'shared/username'
     .panel.panel-default
       .panel-heading
-        = link_to "Comments", '#comments_canvas', data: { toggle: "modal" }
+        = link_to "Comments", '#comments_' + @canvasfield.title.delete(' '), data: { toggle: "modal" }
         .pull-right
           = link_to '+', '#new_comment', data: { toggle: "modal" }, :title => "New", :class => "badge"
       .panel-body
         = render @canvasfield.comments.limit(3)
         - if @canvasfield.comments.count > 3
-          = link_to "(" + (@canvasfield.comments.count - 3).to_s + " more...)", '#comments_canvas', data: { toggle: "modal" }
+          = link_to "(" + (@canvasfield.comments.count - 3).to_s + " more...)", '#comments_' + @canvasfield.title.delete(' '), data: { toggle: "modal" }
 
 = render 'comments/new'
-= render :partial => 'comments/index', :locals => { :tagit => "canvas", :comments => @comments}
-= render 'postits/new'
+= render :partial => 'comments/index', :locals => { :tagit => @canvasfield.title.delete(' '), :comments => @comments}

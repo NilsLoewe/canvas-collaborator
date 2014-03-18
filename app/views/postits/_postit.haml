@@ -1,4 +1,8 @@
-.panel.panel-warning
+.panel.panel-warning.postit
   .panel-heading
     = link_to postit.title, '#edit_postit' + postit.id.to_s, data: { toggle: "modal" }
+    - if postit.link
+      - if postit.link.size > 0
+        .pull-right
+          = link_to '', url_for(postit.link), :target => "_blank", :class => "glyphicon glyphicon-link"
 = render :partial => 'postits/edit', :locals => { :postit => postit}

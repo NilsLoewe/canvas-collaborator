@@ -1,19 +1,25 @@
-#new_postit.modal.fade{:tabindex => "-1"}
+.modal.fade{:id=> "new_postit#{fieldid}", :tabindex => "-1"}
   .modal-header
     %h4.modal-title New postit
   .modal-body
     .modal-body-content
       = form_for(@postit) do |f|
-        .field
-          = f.label :title
-        .field
-          = f.text_field(:title, :size => 40)
-        .field
-          = f.label :content
-        .field
-          = f.text_area(:content, :size => '30x10')
-        .field
-          = f.hidden_field :canvas_field_id, :value =>  @canvasfield.id
+        .row
+          .col-md-3
+            = f.label :title
+          .col-md-6
+            = f.text_field(:title, :size => 40)
+        .row
+          .col-md-3
+            = f.label :content
+          .col-md-6
+            = f.text_area(:content, :size => '40x5')
+        .row
+          .col-md-3
+            = f.label :link
+          .col-md-6
+            = f.text_field(:link, :size => 40)
+        .row.pull-right
+          = f.hidden_field :canvas_field_id, :value =>  fieldid
+          %button.btn{"data-dismiss" => "modal", :type => "button"} Close
           = f.submit "Save changes", class: "btn btn-large btn-primary"
-  .modal-footer
-    %button.btn{"data-dismiss" => "modal", :type => "button"} Close

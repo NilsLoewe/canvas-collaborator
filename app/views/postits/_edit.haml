@@ -4,14 +4,21 @@
   .modal-body
     .modal-body-content
       = form_for(postit) do |f|
-        .field
-          = f.label :title
-        .field
-          = f.text_field(:title, :size => 40)
-        .field
-          = f.label :content
-        .field
-          = f.text_area(:content, :size => '30x10')
-        .field
-          = f.submit "Save changes", class: "btn btn-large btn-primary"
+        .row
+          .col-md-3
+            = f.label :title
+          .col-md-6
+            = f.text_field(:title, :size => 40)
+        .row
+          .col-md-3
+            = f.label :content
+          .col-md-6
+            = f.text_area(:content, :size => '40x5')
+        .row
+          .col-md-3
+            = f.label :link
+          .col-md-6
+            = f.text_field(:link, :size => 40)
+        .row.pull-right
           %button.btn{"data-dismiss" => "modal", :type => "button"} Close
+          = f.submit "Save changes", class: "btn btn-large btn-primary"

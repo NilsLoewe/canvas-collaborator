@@ -2,5 +2,5 @@
   .panel-body
     = form_for :businessmodel, :url => url_for(:controller => 'businessmodels', :action => 'user') do |f|
       .field
-        = f.text_field(:username, :value => @username, :size => 10)
+        = f.text_field(:username, :value => @username, :size => 20)
         = f.submit(:value => "ok", :class => "btn btn-xs")

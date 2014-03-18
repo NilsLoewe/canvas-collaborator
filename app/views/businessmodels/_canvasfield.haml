@@ -1,10 +1,17 @@
 .panel.panel-default
-  .panel-heading
+  .panel-heading.fieldtitle
     %b= link_to field.title, field
     %br
     .badge
       - if field.comments.count > 0
-        = field.comments.count.to_s + ' comments'
+        = link_to field.comments.count.to_s + ' comments', '#comments_' + field.title.delete(' '), data: { toggle: "modal" }
       - else
         no comments
+
 = render field.postits
+.pull-right
+  = link_to "+", '#new_postit' + field.id.to_s, data: { toggle: "modal" }, :class => "badge"
+
+
+= render :partial => 'comments/index', :locals => { :comments => field.comments, :tagit => field.title.delete(' ')}
+= render :partial => 'postits/new',  :locals => { :fieldid => field.id }

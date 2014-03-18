@@ -35,6 +35,7 @@ class BusinessmodelsController < ApplicationController
     @type = @businessmodel.class
     @cid = @businessmodel.id
     @comments = @businessmodel.comments
+    @postit = Postit.new
   end
 
   def user

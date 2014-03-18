@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20140315092208) do
+ActiveRecord::Schema.define(:version => 20140318095908) do
 
   create_table "businessmodels", :force => true do |t|
     t.string   "token"
@@ -41,6 +41,7 @@ ActiveRecord::Schema.define(:version => 20140315092208) do
     t.integer  "canvas_field_id"
     t.datetime "created_at",      :null => false
     t.datetime "updated_at",      :null => false
+    t.string   "link"
   end
 
 end
